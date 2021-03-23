@@ -1,0 +1,26 @@
+body{
+	background: black;
+}.title{
+	color: #ff6600;
+	text-align: center;
+	font-size: 50px;
+	border-bottom: lime 3px solid;
+}.subtitle1{
+	color: cyan;
+	font-size: 35px;
+	margin-left: 20px;
+	
+}.ES{
+	color: lime;
+	margin: 30px;
+	font-size: 20px;
+	font-family: 'Lora', serif;
+}.image{
+	width: 350px;
+	height: 350px;
+	display: flex;
+
+}.grid{
+	display: flex;
+	
+}
